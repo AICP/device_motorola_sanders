@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4f9ffbf8_188421e8",
+        "filename": "aicp.dependencies",
+        "patchSetId": 3
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2019-07-11T21:59:47Z",
+      "side": 1,
+      "message": "check here: https://github.com/AICP/proprietary_vendor_motorola",
+      "range": {
+        "startLine": 8,
+        "startChar": 20,
+        "endLine": 8,
+        "endChar": 62
+      },
+      "revId": "81442115a046335d7781c73312bdf059b7e159ae",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
