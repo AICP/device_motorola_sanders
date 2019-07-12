@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "52ec60b6_c03755a2",
+        "filename": "aicp.dependencies",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2019-07-12T17:22:44Z",
+      "side": 1,
+      "message": "Now kernel to AICP please :)",
+      "range": {
+        "startLine": 3,
+        "startChar": 21,
+        "endLine": 3,
+        "endChar": 54
+      },
+      "revId": "1439bf963673f49f77f772aa565da5607a0eb273",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
