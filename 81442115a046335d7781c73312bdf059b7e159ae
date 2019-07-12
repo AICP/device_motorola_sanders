@@ -22,6 +22,23 @@
       "revId": "81442115a046335d7781c73312bdf059b7e159ae",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0f3994b2_44287ff3",
+        "filename": "aicp.dependencies",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2019-07-12T12:38:24Z",
+      "side": 1,
+      "message": "you only have to set \"target_path\": \"vendor/motorola\", because our repo has the sanders-dir already in",
+      "revId": "81442115a046335d7781c73312bdf059b7e159ae",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
     }
   ]
 }
