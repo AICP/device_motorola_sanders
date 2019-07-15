@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bb08194c_9978ee88",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 257,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2019-07-15T21:31:43Z",
+      "side": 1,
+      "message": "better put it in alphabetical order after RIL",
+      "revId": "49d40099c10e3b690de683289e41b49fdff0197f",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
