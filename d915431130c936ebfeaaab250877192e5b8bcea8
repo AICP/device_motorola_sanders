@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cc56d90b_d56c0a55",
+        "filename": "aicp_sanders.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2019-07-22T07:14:15Z",
+      "side": 1,
+      "message": "the \"\\\" is missing",
+      "revId": "d915431130c936ebfeaaab250877192e5b8bcea8",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e72afd8d_eabcfe23",
+        "filename": "aicp_sanders.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2019-07-22T07:14:15Z",
+      "side": 1,
+      "message": "you can put (optional) your XDA-Name after the name in brackets, see here https://github.com/AICP/device_htc_himaul/blob/p9.0/aicp_himaul.mk#L13",
+      "revId": "d915431130c936ebfeaaab250877192e5b8bcea8",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
