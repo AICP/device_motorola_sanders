@@ -1,2 +1,0 @@
-# add Update NTP servers
-92948/1 https://gerrit.aicp-rom.com device/motorola/sanders
