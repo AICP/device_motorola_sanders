@@ -14,6 +14,8 @@ allow untrusted_app debugfs_trace_marker:file getattr;
 allow untrusted_app proc:file read;
 allow untrusted_app proc_version:file read;
 allow untrusted_app serialno_prop:file read;
+allow untrusted_app sysfs:file { getattr open read };
 allow untrusted_app sysfs_net:dir search;
+allow untrusted_app rootfs:dir { open read };
 allow untrusted_app hal_memtrack_default:binder call;
 allow untrusted_app sysfs_switch:dir search;
