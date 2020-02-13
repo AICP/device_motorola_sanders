@@ -16,6 +16,24 @@
       "revId": "21c1eb8a8f5174ce595aa0438841064c038282a7",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5c4256f0_e19a1a31",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 489,
+      "author": {
+        "id": 1638
+      },
+      "writtenOn": "2020-02-13T12:12:09Z",
+      "side": 1,
+      "message": "No needed lol",
+      "parentUuid": "137bbd4e_ab2ceb4a",
+      "revId": "21c1eb8a8f5174ce595aa0438841064c038282a7",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
     }
   ]
 }
