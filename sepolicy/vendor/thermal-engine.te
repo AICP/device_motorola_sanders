@@ -10,4 +10,4 @@ allow thermal-engine sysfs:dir { open read };
 allow thermal-engine sysfs:file { getattr open read write };
 allow thermal-engine sysfs_devfreq:dir { read search };
 allow thermal-engine sysfs_vadc_dev:dir search;
-allow thermal-engine self:capability { dac_override dac_read_search };
+#allow thermal-engine self:capability { dac_override dac_read_search };
