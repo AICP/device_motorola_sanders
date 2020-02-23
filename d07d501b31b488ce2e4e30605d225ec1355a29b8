@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8b3a16fb_1fe39804",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 473,
+      "author": {
+        "id": 1587
+      },
+      "writtenOn": "2020-02-23T15:43:02Z",
+      "side": 1,
+      "message": "you don\u0027t need to include this, just JamesDSPManager",
+      "revId": "d07d501b31b488ce2e4e30605d225ec1355a29b8",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
