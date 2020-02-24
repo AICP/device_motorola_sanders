@@ -34,6 +34,24 @@
       "revId": "d07d501b31b488ce2e4e30605d225ec1355a29b8",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a802d0d_bdd6dabf",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 473,
+      "author": {
+        "id": 1638
+      },
+      "writtenOn": "2020-02-24T08:35:14Z",
+      "side": 1,
+      "message": "I will remove, but this came from pick",
+      "parentUuid": "8b3a16fb_1fe39804",
+      "revId": "d07d501b31b488ce2e4e30605d225ec1355a29b8",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
     }
   ]
 }
