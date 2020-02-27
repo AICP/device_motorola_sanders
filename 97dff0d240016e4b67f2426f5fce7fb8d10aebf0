@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3b1bbcda_5f189d64",
+        "filename": "sepolicy/vendor/rmt_storage.te",
+        "patchSetId": 6
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2020-02-27T20:40:33Z",
+      "side": 1,
+      "message": "don\u0027t comment out - remove ;-)",
+      "revId": "97dff0d240016e4b67f2426f5fce7fb8d10aebf0",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
