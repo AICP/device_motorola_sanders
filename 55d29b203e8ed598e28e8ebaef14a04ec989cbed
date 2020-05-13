@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f807f6e4_5aa4676a",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1404
+      },
+      "writtenOn": "2020-05-13T01:19:38Z",
+      "side": 1,
+      "message": "This line is missing the spaces in the front.",
+      "revId": "55d29b203e8ed598e28e8ebaef14a04ec989cbed",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
