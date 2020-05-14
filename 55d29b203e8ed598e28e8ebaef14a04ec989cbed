@@ -16,6 +16,24 @@
       "revId": "55d29b203e8ed598e28e8ebaef14a04ec989cbed",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d5425b87_6150b6e8",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1638
+      },
+      "writtenOn": "2020-05-14T14:07:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f807f6e4_5aa4676a",
+      "revId": "55d29b203e8ed598e28e8ebaef14a04ec989cbed",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
     }
   ]
 }
