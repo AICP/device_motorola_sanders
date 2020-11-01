@@ -17,6 +17,12 @@ vendor/lib64/libfastcvopt.so
 vendor/lib64/libmdsprpc.so
 vendor/lib64/libsdsprpc.so
 
+# Peripheral (deen_sprout 10/QPK30.54-22)
+vendor/bin/pm-proxy
+vendor/bin/pm-service
+vendor/lib/libperipheral_client.so
+vendor/lib64/libperipheral_client.so
+
 # Time (deen_sprout 10/QPK30.54-22)
 -vendor/app/TimeService/TimeService.apk
 vendor/bin/time_daemon
@@ -657,7 +663,6 @@ vendor/lib/libOmxQcelp13Dec.so
 vendor/lib/libOmxWmaDec.so
 vendor/lib/libOpenCL.so
 vendor/lib/liboptizoom.so
-vendor/lib/libperipheral_client.so
 vendor/lib/libqcci_legacy.so
 vendor/lib/libqcmaputils.so
 vendor/lib/libqdi.so
