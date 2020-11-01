@@ -6,6 +6,10 @@ vendor/bin/time_daemon
 vendor/lib/libtime_genoff.so
 vendor/lib64/libtime_genoff.so
 
+# WiFi (deen_sprout 10/QPK30.54-22)
+vendor/bin/cnss-daemon
+vendor/bin/cnss_diag
+
 -app/datastatusnotification/datastatusnotification.apk
 -app/embms/embms.apk
 bin/adspd
