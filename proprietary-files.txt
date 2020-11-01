@@ -1,8 +1,13 @@
 # Proprietary files for sanders
 
+# Time (deen_sprout 10/QPK30.54-22)
+-vendor/app/TimeService/TimeService.apk
+vendor/bin/time_daemon
+vendor/lib/libtime_genoff.so
+vendor/lib64/libtime_genoff.so
+
 -app/datastatusnotification/datastatusnotification.apk
 -app/embms/embms.apk
--app/TimeService/TimeService.apk
 bin/adspd
 bin/adsprpcd
 bin/btnvtool
@@ -731,7 +736,6 @@ vendor/lib/libSubSystemShutdown.so
 vendor/lib/libsystem_health_mon.so
 vendor/lib/libthermalclient.so
 vendor/lib/libthermalioctl.so
--vendor/lib/libtime_genoff.so
 vendor/lib/libTimeService.so
 vendor/lib/libtrueportrait.so
 vendor/lib/libts_detected_face_hal.so
