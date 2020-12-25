@@ -49,5 +49,4 @@ DEVICE_MAINTAINERS="Lucas Ponez (Pintoslp)"
 # for specific
 $(call inherit-product, vendor/motorola/sanders/sanders-vendor.mk)
 
-# FINGERPRINT
-BUILD_FINGERPRINT := google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
+BUILD_FINGERPRINT := google/sunfish/sunfish:11/RQ1A.201205.008/6943376:user/release-keys
