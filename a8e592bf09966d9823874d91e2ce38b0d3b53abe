@@ -16,6 +16,23 @@
       "message": "I did it because was impossible allow charger relabeling all files related. Just asking if it are allowed. \n\nI can enable neverallows to allow sysfs:file in charger.te too.\n\nReason: https://github.com/lucasponez/android_device_motorola_sanders/commit/bbe9ff04215793e0003a79560e82c89e51b1f012#diff-e84eeab718e4d5bafbcbfedc1857d59d47ec5a60edc3b09b929c396202a87a7eR6\n\nEven relabeling, the file above still appearing as denial.",
       "revId": "a8e592bf09966d9823874d91e2ce38b0d3b53abe",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f1c30a52_ca266bf7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 774
+      },
+      "writtenOn": "2021-01-20T20:17:02Z",
+      "side": 1,
+      "message": "it\u0027s fine, just don\u0027t do it for things that need to be more secure https://github.com/LineageOS/android_device_lineage_sepolicy/blob/lineage-18.1/common/private/backuptool.te#L10",
+      "revId": "a8e592bf09966d9823874d91e2ce38b0d3b53abe",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
