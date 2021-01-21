@@ -33,6 +33,23 @@
       "message": "it\u0027s fine, just don\u0027t do it for things that need to be more secure https://github.com/LineageOS/android_device_lineage_sepolicy/blob/lineage-18.1/common/private/backuptool.te#L10",
       "revId": "a8e592bf09966d9823874d91e2ce38b0d3b53abe",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b9984a48_3f02fbf3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2021-01-21T06:48:05Z",
+      "side": 1,
+      "message": "Yup, but can you just exchange the \"tab\" in line 2 with spaces please?",
+      "revId": "a8e592bf09966d9823874d91e2ce38b0d3b53abe",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
