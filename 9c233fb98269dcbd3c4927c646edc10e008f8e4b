@@ -33,6 +33,24 @@
       "message": "\u003c/resources\u003e",
       "revId": "9c233fb98269dcbd3c4927c646edc10e008f8e4b",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5dd70d13_558c8571",
+        "filename": "overlay-aicp/packages/apps/SetupWizard/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1828
+      },
+      "writtenOn": "2021-05-10T16:28:07Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "c1339631_0214d7c4",
+      "revId": "9c233fb98269dcbd3c4927c646edc10e008f8e4b",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }

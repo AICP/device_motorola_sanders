@@ -24,6 +24,30 @@
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "27003eb3_af9b86d9",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 441,
+      "author": {
+        "id": 1828
+      },
+      "writtenOn": "2021-05-10T16:28:07Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "8023e01c_85cab0fe",
+      "range": {
+        "startLine": 439,
+        "startChar": 0,
+        "endLine": 441,
+        "endChar": 11
+      },
+      "revId": "e4066a6feff54dadc02136f2ef974b76de75e1c1",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "9216a735_3b73ad1d",
@@ -37,6 +61,30 @@
       "writtenOn": "2021-05-10T16:16:40Z",
       "side": 1,
       "message": "change that to true and then abandon this https://gerrit.aicp-rom.com/c/AICP/device_motorola_sanders/+/109757/1",
+      "range": {
+        "startLine": 15,
+        "startChar": 43,
+        "endLine": 15,
+        "endChar": 48
+      },
+      "revId": "e4066a6feff54dadc02136f2ef974b76de75e1c1",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b53066f_f3c3c366",
+        "filename": "overlay-aicp/packages/apps/Updater/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1828
+      },
+      "writtenOn": "2021-05-10T16:28:07Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "9216a735_3b73ad1d",
       "range": {
         "startLine": 15,
         "startChar": 43,
