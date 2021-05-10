@@ -1,0 +1,2 @@
+# Hide recovery option in Setup Wizard
+109760/4 https://gerrit.aicp-rom.com packages/apps/SetupWizard
