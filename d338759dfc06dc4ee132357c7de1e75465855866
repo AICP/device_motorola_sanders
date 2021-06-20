@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "daf611d4_d2e69d83",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 774
+      },
+      "writtenOn": "2021-06-20T15:45:01Z",
+      "side": 1,
+      "message": "this commit was merged https://gerrit.aicp-rom.com/c/AICP/packages_apps_SetupWizard/+/109760",
+      "revId": "d338759dfc06dc4ee132357c7de1e75465855866",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
